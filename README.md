@@ -1,5 +1,7 @@
 <h1 align=center>Hi! My name is Nicolas 👋</h1>
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 I'm a junior developer full stack from Argentina :man_technologist:  
 I love creating UI tests for web apps with WebdriverIO and Selenium as well as testing manually. To help reaching quality in software products is my goal! 🤓  
 I'm a QA Manual & Automation tester from Argentina :woman_technologist:  
