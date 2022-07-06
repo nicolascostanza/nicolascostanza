@@ -2,17 +2,15 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-I'm a junior developer full stack from Argentina :man_technologist:  
-I love creating UI tests for web apps with WebdriverIO and Selenium as well as testing manually. To help reaching quality in software products is my goal! 🤓  
-I'm a QA Manual & Automation tester from Argentina :woman_technologist:  
-I'm also an enthusiast for software development and web design ✨  
-I'm very passionate about facing challenges and learning new technologies.  
-I'm constantly searching for new things to learn!  🧠
-@@ -17,13 +16,12 @@ I'm constantly searching for new things to learn!  🧠
-💛 Deepen my knowledge on testing technologies  
-💚 Learn more about web development  
-🧡 Start me in machine learning  
-💜 Start me in Ethical Hacking and Cybersecurity  
+I'm a junior full stack developer from Argentina :man_technologist:  
+I love creating user interfaces for web applications with Reactjs. helping to develop scalable apps is my goal! 🤓  
+I am based on the philosophy of continuous improvement :man_technologist:  
+I am also a user experience enthusiast✨.  
+I am passionate about facing challenges and learning new technologies.  
+I'm constantly on the lookout for new things to learn!  🧠
+
+### Current tecnologies
+<img src=https://img.shields.io/badge/-Javascript-yellow />
 
 ### A little more about me
 - 😄 Pronouns: She/Her
