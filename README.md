@@ -4,9 +4,9 @@
 </div>
 I'm a junior full stack developer from Argentina :man_technologist:
 <br />
-I love creating user interfaces for web applications with Reactjs. helping to develop scalable apps is my goal! 🤓
-<br />
 I am based on the philosophy of continuous improvement :man_technologist:
+<br />
+I love creating user interfaces for web applications with Reactjs. helping to develop scalable apps is my goal! 🤓
 <br />
 I am also a user experience enthusiast✨.
 <br />
