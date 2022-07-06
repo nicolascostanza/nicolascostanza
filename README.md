@@ -10,7 +10,7 @@ I am passionate about facing challenges and learning new technologies.
 I'm constantly on the lookout for new things to learn!  🧠
 
 ### Current tecnologies
-<img src=https://img.shields.io/badge/-Javascript-yellow />
+<img src=https://img.shields.io/badge/-HTML-blue /><img src=https://img.shields.io/badge/-CSS-brightgreen /><img src=https://img.shields.io/badge/-Javascript-yellow />
 
 ### A little more about me
 - 😄 Pronouns: She/Her
