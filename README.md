@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 I'm a junior full stack developer from Argentina :man_technologist:  
-I love creating user interfaces for web applications with Reactjs. helping to develop scalable apps is my goal! 🤓  
+I love creating user interfaces for web applications with Reactjs. helping to develop scalable apps is my goal! 🤓
 I am based on the philosophy of continuous improvement :man_technologist:  
 I am also a user experience enthusiast✨.  
 I am passionate about facing challenges and learning new technologies.  
